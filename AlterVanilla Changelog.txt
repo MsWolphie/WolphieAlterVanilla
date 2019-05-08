@@ -1,0 +1,99 @@
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 08/05/2019)
+
+--------
+1.14.x-a 1.14 Vibes
+--------
+
++ Added 3D models for some items in GUI/in hand
++ Added custom Birch Sapling texture
++ Added custom Bedrock texture, matching the new stone a bit 
++ Added custom Emerald Ore and Redstone Ore texture
++ Added custom raw and polished textures for granite, diorite and/or andesite
++ Added better slabs
++ Added wheat seeds variants when the stack is not full
++ Added custom Feather texture, to make something between the new one and the old one
++ Changed the "Crafting book" icon in the inventory
++ Added a custom texture for the Cleric Villager tabard
++ Added colours to various diamond and emerald items name
++ Added clearer Observer textures
++ Added clearer Sticky Piston textures
++ Added custom options background
++ Brought back the good old purple arrow, that only old timers can remember
++ And better arrows in general
++ Small tweak to the sea lantern animation settings, to make it smoother
++ Tweaked the lantern animation
++ Added a custom texture for the debug stick
++ Once in a while, Dave will spawn and will try to get his Gameboy back!
++ Lotz of creepers
++ Chests should do chest particles when destroyed and not wood/obsidian
++ Added some splash texts
+* Redid the Iron Nugget texture, to match the brand new Golden Nugget
+* Redid the Iron Block and the Emerald Block to match the brand new Golden Block and Diamond Block
+* Redid the CTM sandstone textures to match the brand new sandstone
+* Redid the CTM TNT textures to match the brand new ones
+* Redid the CTM glass textures to match the brand new one, removed the "non-CTM" one
+* Changed Villager textures to avoid perma-Nitwit apocalypse
+* Entirely redid the enchantment font and particles
+* Redid the tweaked damaged anvil
+* Fixed non latin font textures
+* Tweaked some misc gui textures
+* Corrected Armourer spelled incorrectly in en_GB lang file
+- Removed the old gravel texture, the brand new one is cool
+- Removed obsolete custom colour for Signs text
+
+
+--------
+1.13.x-d Lava Shulkers
+--------
+
++ Brought back the good old lava texture!
++ Added Custom GUI Shulker textures (lots of colours!)
++ Added mycelium particles colormap
++ Added custom splash texts
++ Added colours for the Diamond and Emerald items
+* Fixed misplaced Better Faithful mention in lang files
+
+
+--------
+1.13.x-c Doubting Villagers
+--------
+
+* Removed Randomobs Villager textures, and animated their eyebrows instead
+* Small fix on the Iron block
+* Added and tweaked some easter egg textures
+- Removed WoW lvl up sound
+
+
+--------
+1.13.x-b [Fixes]
+--------
+
++ Added new CTM clearer glass textures
+* GUI elements are now in the correct resolution
+* Tweaked the particles
+* Slightly tweaked the glass texture
+* Some corrections in the splashes
+- Removed custom player hurt sounds
+
+
+--------
+1.13.x-a "Faithful Fork"
+--------
+
+* Forked everything from the Better Faithful
+* Replaced 32x textures for the Emerald Block and the Iron Block with new 16x ones
+* Remade the "straightened" Iron Nugget texture
+* Replaced 32x textures for the Grass Path with new 16x ones
+* Replaced the 32x clear Glass textures with new 16x ones
+* Brought back the good old Rose and the Good old gravel 16x textures
+* Created a 16x version of the Chips/French Fries item textures (for the baked potato)
+* Remade the CTM ladder textures
+* Remade the CTM Smooth and Carved Sandstone textures
+* Remade the CTM TNT textures (glorious 16x and 32x mix right here!)
+* Temporarily left some 32x gui and particles textures
+* Changed pack Icon
+- Temporarily disabled ctm properties for the Glass since it still needs new 16x textures
+- Removed old versions of some Faithful 32x items
+- Removed useless mobs textures
+- Removed unused elytra textures
+- Removed misc unused textures

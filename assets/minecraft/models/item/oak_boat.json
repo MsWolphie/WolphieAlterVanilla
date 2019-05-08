@@ -1,0 +1,6 @@
+{
+    "parent": "item/boat_item",
+    "textures": {
+        "texture": "custommodels/boat_oak"
+    }
+}

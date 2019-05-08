@@ -1,0 +1,26 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "block/observer_back",
+        "front": "block/observer_front",
+        "right": "custommodels/observer_right",
+        "left": "custommodels/observer_left",
+        "back": "block/observer_back",
+        "top": "block/observer_top"
+    },
+    "elements": [
+        {
+            "name": "Observer Block",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 16.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#front", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "east": { "texture": "#right", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "south": { "texture": "#back", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "west": { "texture": "#left", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "up": { "texture": "#top", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "rotation": 180 },
+                "down": { "texture": "#top", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        }
+    ]
+}

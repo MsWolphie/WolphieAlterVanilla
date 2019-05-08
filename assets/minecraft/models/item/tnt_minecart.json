@@ -1,0 +1,15 @@
+{
+	"parent": "item/minecart_item",
+	"textures": {
+		"cart": "custommodels/minecart",
+		"chest": "empty",
+		"up": "block/tnt_top",
+		"north": "block/tnt_side",
+		"south": "block/tnt_side",
+		"west": "block/tnt_side",
+		"east": "block/tnt_side",
+		"hopper_top": "empty",
+		"hopper_sides": "empty",
+		"hopper_inside": "empty"
+	}
+}
