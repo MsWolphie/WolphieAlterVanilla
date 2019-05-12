@@ -1,4 +1,4 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 08/05/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 12/05/2019)
 
 --------
 1.14.x-a 1.14 Vibes
@@ -8,6 +8,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 08/05/2019)
 + Added custom Birch Sapling texture
 + Added custom Bedrock texture, matching the new stone a bit 
 + Added custom Emerald Ore and Redstone Ore texture
++ Btw, who needs Emeralds when you can have AMETHYSTS???
 + Added custom raw and polished textures for granite, diorite and/or andesite
 + Added better slabs
 + Added wheat seeds variants when the stack is not full
@@ -26,6 +27,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 08/05/2019)
 + Once in a while, Dave will spawn and will try to get his Gameboy back!
 + Lotz of creepers
 + Chests should do chest particles when destroyed and not wood/obsidian
++ Those things are WATERMELONS. Melons don't look like that.
 + Added some splash texts
 * Redid the Iron Nugget texture, to match the brand new Golden Nugget
 * Redid the Iron Block and the Emerald Block to match the brand new Golden Block and Diamond Block
