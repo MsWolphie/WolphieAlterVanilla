@@ -1,4 +1,4 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 12/05/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 13/05/2019)
 
 --------
 1.14.x-a 1.14 Vibes
@@ -8,13 +8,13 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 12/05/2019)
 + Added custom Birch Sapling texture
 + Added custom Bedrock texture, matching the new stone a bit 
 + Added custom Emerald Ore and Redstone Ore texture
-+ Btw, who needs Emeralds when you can have AMETHYSTS???
 + Added custom raw and polished textures for granite, diorite and/or andesite
 + Added better slabs
 + Added more contrasted Cobblestone
 + Added wheat seeds variants when the stack is not full
 + Added custom Feather texture, to make something between the new one and the old one
 + Changed the "Crafting book" icon in the inventory
++ Villagers are now Pigmens
 + Added a custom texture for the Cleric Villager tabard
 + Added colours to various diamond and emerald items name
 + Added clearer Observer textures

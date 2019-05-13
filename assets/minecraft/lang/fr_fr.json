@@ -1,13 +1,13 @@
 {
   "item.minecraft.baked_potato": "Frites",
   "item.minecraft.diamond": "§bDiamant§r",
-  "item.minecraft.emerald": "§dAméthyste§r",
+  "item.minecraft.emerald": "§aÉmeraude§r",
 
   "block.minecraft.poppy": "Rose",
   "block.minecraft.diamond_block": "§bBloc de diamant§r",
   "block.minecraft.diamond_ore": "§bMinerai de diamant§r",
-  "block.minecraft.emerald_block": "§dBloc d'améthyste§r",
-  "block.minecraft.emerald_ore": "§dMinerai d'améthyste§r",
+  "block.minecraft.emerald_block": "§aBloc d'émeraude§r",
+  "block.minecraft.emerald_ore": "§aMinerai d'émeraude§r",
 
   "options.off": "§cNon§r",
   "options.on": "§aOui§r",
