@@ -11,6 +11,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 12/05/2019)
 + Btw, who needs Emeralds when you can have AMETHYSTS???
 + Added custom raw and polished textures for granite, diorite and/or andesite
 + Added better slabs
++ Added more contrasted Cobblestone
 + Added wheat seeds variants when the stack is not full
 + Added custom Feather texture, to make something between the new one and the old one
 + Changed the "Crafting book" icon in the inventory
