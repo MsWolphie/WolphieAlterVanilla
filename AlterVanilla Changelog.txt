@@ -1,7 +1,7 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 13/05/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 21/05/2019)
 
 --------
-1.14.x-a 1.14 Vibes
+1.14.x-a The Pigmen Apocalypse
 --------
 
 + Added 3D models for some items in GUI/in hand
@@ -15,6 +15,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 13/05/2019)
 + Added custom Feather texture, to make something between the new one and the old one
 + Changed the "Crafting book" icon in the inventory
 + Villagers are now Pigmens
++ So are Iron golems
 + Added a custom texture for the Cleric Villager tabard
 + Added colours to various diamond and emerald items name
 + Added clearer Observer textures
@@ -43,6 +44,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 13/05/2019)
 * Corrected Armourer spelled incorrectly in en_GB lang file
 - Removed the old gravel texture, the brand new one is cool
 - Removed obsolete custom colour for Signs text
+- Removed custom Steve skin
 
 
 --------
