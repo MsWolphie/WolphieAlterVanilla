@@ -31,6 +31,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 21/05/2019)
 + Chests should do chest particles when destroyed and not wood/obsidian
 + Those things are WATERMELONS. Melons don't look like that.
 + Added some splash texts
++ Replaced sun and mon with round ones like in an old snapshot no-one remembers
 * Redid the Iron Nugget texture, to match the brand new Golden Nugget
 * Redid the Iron Block and the Emerald Block to match the brand new Golden Block and Diamond Block
 * Redid the CTM sandstone textures to match the brand new sandstone
@@ -42,6 +43,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 21/05/2019)
 * Fixed non latin font textures
 * Tweaked some misc gui textures
 * Corrected Armourer spelled incorrectly in en_GB lang file
+- Removed custom sky & old sun and moon, as I didn't own the textures and can't remember where they came from
 - Removed the old gravel texture, the brand new one is cool
 - Removed obsolete custom colour for Signs text
 - Removed custom Steve skin
