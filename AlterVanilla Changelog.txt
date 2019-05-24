@@ -1,19 +1,21 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 21/05/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 24/05/2019)
 
 --------
 1.14.x-a The Pigmen Apocalypse
 --------
 
 + Added 3D models for some items in GUI/in hand
-+ Added custom Birch Sapling texture
 + Added custom Bedrock texture, matching the new stone a bit 
 + Added custom Emerald Ore and Redstone Ore texture
 + Added custom raw and polished textures for granite, diorite and/or andesite
 + Added better slabs
 + Added more contrasted Cobblestone
++ Added CTM textures for the Cut and Chiseled Red Sandstone
 + Added wheat seeds variants when the stack is not full
 + Added custom Feather texture, to make something between the new one and the old one
++ Added CIT textures for various seeds
 + Changed the "Crafting book" icon in the inventory
++ Shields are now less intrusive in first person view
 + Villagers are now Pigmens
 + So are Iron golems
 + Added a custom texture for the Cleric Villager tabard
@@ -25,13 +27,14 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 21/05/2019)
 + And better arrows in general
 + Small tweak to the sea lantern animation settings, to make it smoother
 + Tweaked the lantern animation
++ Torches now hang on the wall for a reason
 + Added a custom texture for the debug stick
 + Once in a while, Dave will spawn and will try to get his Gameboy back!
 + Lotz of creepers
 + Chests should do chest particles when destroyed and not wood/obsidian
 + Those things are WATERMELONS. Melons don't look like that.
 + Added some splash texts
-+ Replaced sun and mon with round ones like in an old snapshot no-one remembers
++ Replaced sun and moon with round ones like in an old snapshot no-one remembers
 * Redid the Iron Nugget texture, to match the brand new Golden Nugget
 * Redid the Iron Block and the Emerald Block to match the brand new Golden Block and Diamond Block
 * Redid the CTM sandstone textures to match the brand new sandstone
@@ -41,8 +44,10 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 21/05/2019)
 * Entirely redid the enchantment font and particles
 * Redid the tweaked damaged anvil
 * Fixed non latin font textures
+* Tweaked some symbols in font textures
 * Tweaked some misc gui textures
 * Corrected Armourer spelled incorrectly in en_GB lang file
+* Fixes with CTM properties
 - Removed custom sky & old sun and moon, as I didn't own the textures and can't remember where they came from
 - Removed the old gravel texture, the brand new one is cool
 - Removed obsolete custom colour for Signs text

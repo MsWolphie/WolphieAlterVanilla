@@ -1,0 +1,65 @@
+{
+	"textures": {
+		"particle": "block/bell_bottom",
+		"bell": "entity/bell/bell_body"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Body",
+			"from": [ 5, 5, 5 ],
+			"to": [ 11, 13, 11 ],
+			"faces": {
+				"down": { "uv": [ 3, 0, 6, 3 ], "texture": "#bell" },
+				"up": { "uv": [ 6, 0, 9, 3 ], "texture": "#bell" },
+				"north": { "uv": [ 0, 3, 3, 6.5 ], "texture": "#bell" },
+				"south": { "uv": [ 3, 3, 6, 6.5 ], "texture": "#bell" },
+				"west": { "uv": [ 6, 3, 9, 6.5 ], "texture": "#bell" },
+				"east": { "uv": [ 9, 3, 12, 6.5 ], "texture": "#bell" }
+			}
+		},
+		{
+			"__comment": "Bottom",
+			"from": [ 4, 4, 4 ],
+			"to": [ 12, 5, 12 ],
+			"faces": {
+				"down": { "uv": [ 8, 6.5, 12, 10.5 ], "texture": "#bell" },
+				"up": { "uv": [ 4, 6.5, 8, 10.5 ], "texture": "#bell" },
+				"north": { "uv": [ 0, 10.5, 4, 11.5 ], "texture": "#bell" },
+				"south": { "uv": [ 4, 10.5, 8, 11.5 ], "texture": "#bell" },
+				"west": { "uv": [ 8, 10.5, 12, 11.5 ], "texture": "#bell" },
+				"east": { "uv": [ 12, 10.5, 16, 11.5 ], "texture": "#bell" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.45, 0.45, 0.45 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.45, 0.45, 0.45 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"translation":  [ 0, 3, 0 ],
+			"scale":  [ 0.33, 0.33, 0.33 ]
+		},
+		"fixed": {
+			"scale":  [ 1, 1, 1 ]
+		}
+	}
+}
