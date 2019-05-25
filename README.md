@@ -12,5 +12,5 @@ All credits can be found in the changelog and/or here, if something is not creat
 
 Ressources used from other packs
 
-Fonts : Paper Cut-Out (& Misa for enchant runes; both are tweaked to fit what I want, see changelogs);
+Fonts : Paper Cut-Out (heavily tweaked/corrected);
 Thanks to piber20, some custom 3D models were inspired from their own pack

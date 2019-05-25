@@ -1,7 +1,7 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 24/05/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 25/05/2019)
 
 --------
-1.14.x-a The Pigmen Apocalypse
+1.14.x 0.1 The Pigmen Apocalypse
 --------
 
 + Added 3D models for some items in GUI/in hand
