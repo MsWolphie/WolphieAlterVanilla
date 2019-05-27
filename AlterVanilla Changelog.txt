@@ -1,4 +1,14 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 25/05/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 27/05/2019)
+
+--------
+1.14.2+ 0.1.1 Font Fix
+--------
+
+* Fixed font textures to match the new ones (Thx Mojang)
+* Tweaked door model in GUI
+* Corrected the Random Entities texture path to match the default Optifine path (from optifine/mob to optifine/random/entities)
+* Tweaked random creeper textures probabilities
+
 
 --------
 1.14.x 0.1 The Pigmen Apocalypse
