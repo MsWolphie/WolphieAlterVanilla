@@ -1,4 +1,13 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 27/05/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 28/05/2019)
+
+--------
+1.14.2+ 0.1.2 Name here
+--------
+
+* Tweak to Item frames
+* Fixed old pack name mention in the lang files
+- Removed now deprecated Villager textures
+
 
 --------
 1.14.2+ 0.1.1 Font Fix
