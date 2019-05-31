@@ -1,9 +1,12 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 28/05/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 31/05/2019)
 
 --------
-1.14.2+ 0.1.2 Name here
+1.14.2+ 0.1.2 Hats & Caps
 --------
 
++ Added custom Lava and Water bucket textures
++ Added custom Leather Cap, which looks like the Fletcher hat
++ Added custom splash lines
 * Tweak to Item frames
 * Fixed old pack name mention in the lang files
 - Removed now deprecated Villager textures
