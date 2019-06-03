@@ -1,4 +1,4 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 02/06/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 03/06/2019)
 
 --------
 1.14.2+ 0.1.2 Hats & Caps
@@ -8,11 +8,15 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 02/06/2019)
 + Added custom Leather Cap, which looks like the Fletcher hat
 + Added custom Golden Helmet, and replaced it with a Crown
 + Added custom Iron and Diamond Helmet, removed the ugly nose part
++ Added corresponding item Textures
 + Added custom splash lines
 + Added levels 61 to 70 to lang files
++ Added partial support to this datapack: https://www.youtube.com/watch?v=lZP-qnDFz5k (Put this pack on top of the original one)
 * Tweak to Item frames
 * Fixed old pack name mention in the lang files
 - Removed now deprecated Villager textures
+- Removed now deprecated particle texture file
+- Removed obsolete pre 1.14.2 fonts backups
 
 
 --------
