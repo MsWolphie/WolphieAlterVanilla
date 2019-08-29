@@ -1,7 +1,13 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 27/08/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 29/08/2019)
 
 --------
-1.14.4+ 0.1.2 Hats & Caps
+1.14.4+ 0.2.1 Fixes
+--------
+
++ Fixed weird "strips" on Gold Ingot
+
+--------
+1.14.4+ 0.2.0 Hats & Caps
 --------
 
 + Added custom Lava and Water bucket textures
@@ -14,7 +20,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 27/08/2019)
 * Redid the Shulker Shell item's model to take textures from shulker entity, removed now deprecated additional textures
 * Redid the Item Frame... well, item
 * Fixed old pack name mention in the lang files
-* Fixed (AGAIN) the new font textures for 1.14.4 and superior (Common Mojang end my suffering please)
+* Fixed (AGAIN) the new font textures for 1.14.4 and superior (Come on Mojang end my suffering please)
 - Removed now deprecated Villager textures
 - Removed now deprecated particle texture file
 - Removed obsolete pre 1.14.2 fonts backups
