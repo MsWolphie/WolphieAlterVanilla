@@ -1,10 +1,11 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 29/08/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 30/08/2019)
 
 --------
 1.14.4+ 0.2.1 Fixes
 --------
 
 + Fixed weird "strips" on Gold Ingot
++ Fixed error message linked to an old line in a custom model
 
 --------
 1.14.4+ 0.2.0 Hats & Caps

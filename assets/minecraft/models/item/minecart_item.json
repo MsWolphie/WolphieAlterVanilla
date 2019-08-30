@@ -1,7 +1,7 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/planks_oak",
+		"particle": "block/oak_planks",
 		"cart": "#cart",
 		"chest": "#chest",
 		"up": "#up",
