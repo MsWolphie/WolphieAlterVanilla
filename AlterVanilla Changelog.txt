@@ -6,6 +6,8 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 30/08/2019)
 
 + Fixed weird "strips" on Gold Ingot
 + Fixed error message linked to an old line in a custom model
++ Tweaked explosion sound to be more nostalg– I mean, explosive
++ Tweaked inverted daylight sensors, after seeing this tweak idea: https://www.reddit.com/r/Minecraft/comments/d1mea6/texture_concept_i_whipped_up_for_daylight_sensors/
 * Tweaked creeper random properties
 - Removed redundant Vex textures
 
