@@ -1,4 +1,13 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 30/08/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 15/12/2019)
+
+--------
+1.15.x 0.2.2 
+--------
+
++ Little tweak to the light sensors
+* Updated to 1.15
+* Redone door items
+
 
 --------
 1.14.4+ 0.2.1 Fixes
