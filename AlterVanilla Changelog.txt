@@ -1,12 +1,16 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 15/12/2019)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 07/02/2020)
 
 --------
 1.15.x 0.2.2 
 --------
 
 + Little tweak to the light sensors
++ Added custom Netherite block texture to match Gold/Diamond/etc blocks
++ Added custom texture for the Netherite Ingot texture, with less "impurities"
 * Updated to 1.15
 * Redone door items
+* Redone enchant effect
+* Tweaked explosion sound
 
 
 --------
