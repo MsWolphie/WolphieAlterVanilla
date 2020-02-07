@@ -7,9 +7,11 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 07/02/2020)
 + Little tweak to the light sensors
 + Added custom Netherite block texture to match Gold/Diamond/etc blocks
 + Added custom texture for the Netherite Ingot texture, with less "impurities"
++ Subtle animation on Enchanted Golden Apple
 * Updated to 1.15
 * Redone door items
 * Redone enchant effect
+* Fixed Enchanted Golden Apple showing incorrectly in 3rd person
 * Tweaked explosion sound
 
 
