@@ -12,6 +12,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 28/02/2020)
 + Infested stones now appear with a "biohazard" overlay in the inventory (thx PureBDCraft for the inspiration/idea)
 * Updated to 1.16 (+ Iron Golem files relocation)
 * Updated wall torch models to make them compatible with both 1.15.x and 1.16.x versions
+* Updated pack icon
 * Redone door items
 * Redone enchant effect
 * Fixed Enchanted Golden Apple showing incorrectly in 3rd person
