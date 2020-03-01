@@ -1,21 +1,28 @@
 MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 01/03/2020)
 
 --------
-1.16.x 0.3.2 
+1.16.x 0.3.3
+--------
+
++ Added a few splash texts
+
+
+--------
+1.16.x 0.3.2
 --------
 
 + Soul Fire Lanterns should now behave like their "normal" counterparts
 
 
 --------
-1.16.x 0.3.1 
+1.16.x 0.3.1
 --------
 
 * Shield patterns are now a bit HDier
 
 
 --------
-1.16.x 0.3.0 
+1.16.x 0.3.0
 --------
 
 + Custom "bricked" cobblestone and mossy cobblestone
