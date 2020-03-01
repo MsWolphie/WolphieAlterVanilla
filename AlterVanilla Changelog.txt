@@ -1,7 +1,7 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 28/02/2020)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 01/03/2020)
 
 --------
-1.16.x 0.3.1 
+1.16.x 0.3.2 
 --------
 
 + Soul Fire Lanterns should now behave like their "normal" counterparts
