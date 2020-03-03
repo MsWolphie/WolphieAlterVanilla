@@ -7,9 +7,9 @@
   "item.minecraft.glistering_melon_slice": "Glistering Watermelon Slice",
 
   "block.minecraft.poppy": "Rose",
-  "block.minecraft.diamond_block": "§bDiamond Block§r",
+  "block.minecraft.diamond_block": "§bBlock of Diamond§r",
   "block.minecraft.diamond_ore": "§bDiamond Ore§r",
-  "block.minecraft.emerald_block": "§aEmerald Block§r",
+  "block.minecraft.emerald_block": "§aBlock of Emerald§r",
   "block.minecraft.emerald_ore": "§aEmerald Ore§r",
   "block.minecraft.melon": "Watermelon",
 
@@ -50,7 +50,7 @@
   "entity.minecraft.villager.cartographer": "§1Cartographer§r",
   "entity.minecraft.villager.farmer": "§2Farmer§r",
 
-  "options.languageWarning": "Only §oen_US§r, §oen_GB§r and §ofr_FR§r are §3§ofully§r supported by the Alter Vanilla",
+  "options.languageWarning": "Only §oen_US§r, §oen_GB§r and §ofr_FR§r are §3§ofully§r supported by the Alter Faithful",
 
   "enchantment.level.11": "XI",
   "enchantment.level.12": "XII",

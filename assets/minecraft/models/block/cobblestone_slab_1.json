@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "custommodels/cobblestone_1",
+        "top": "custommodels/cobblestone_1",
+        "side": "custommodels/cobblestone_1"
+    }
+}
