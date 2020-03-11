@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "custommodels/petrified_oak_slab"
+    }
+}
