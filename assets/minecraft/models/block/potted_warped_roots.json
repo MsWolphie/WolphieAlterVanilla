@@ -1,5 +1,5 @@
 {
-    "parent": "blockflower_pot_variants/cross_warped",
+    "parent": "block/flower_pot_variants/cross_warped",
     "textures": {
         "plant": "block/warped_roots_pot"
     }
