@@ -1,6 +1,13 @@
 MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 11/03/2020)
 
 --------
+1.16.x 0.3.4
+--------
+
++ Added custom model variants for flower pots (soulsand soil for wither roses, warped/crimson thingy for corresponding fungi, sand for cacti, or completely empty)
+
+
+--------
 1.16.x 0.3.3
 --------
 
