@@ -1,4 +1,4 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 13/03/2020)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 16/03/2020)
 
 --------
 1.16.x 0.3.4
@@ -6,6 +6,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 13/03/2020)
 
 + Added custom model variants for flower pots (soulsand soil for wither roses, warped/crimson thingy for corresponding fungi, sand for cacti, or completely empty)
 + Added ore variants for diorite, andesite and granite (CTM)
+- Removed rainbow trippy Mycelium particle custom colours
 
 
 --------
