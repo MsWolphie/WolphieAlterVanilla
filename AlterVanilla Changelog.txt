@@ -1,7 +1,14 @@
 MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 16/03/2020)
 
 --------
-1.16.x 0.3.4
+1.16.x 0.4.1
+--------
+
+* Entirely redid the shulker box inventory interface
+
+
+--------
+1.16.x 0.4.0
 --------
 
 + Added custom model variants for flower pots (soulsand soil for wither roses, warped/crimson thingy for corresponding fungi, sand for cacti, or completely empty)
