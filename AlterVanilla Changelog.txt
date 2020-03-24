@@ -6,7 +6,10 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 24/03/2020)
 
 + Unified every ore textures
 + Added custom (Red & Standard) Nether Brick block textures
++ Added one more cobblestone (and mossy cobblestone) variant
++ Mossy cobblestone slabs are now using the various new textures too
 * Entirely redid the shulker box inventory interface (optifine recommended of course)
+* Little fix to a cobblestone variant and its mossy counterpart
 - Removed ore variants for diorite, andesite and granite as I couldn't have a result satisfying me
 
 

@@ -3,7 +3,8 @@
         "": [
 		    { "model": "block/cobblestone"   },
 			{ "model": "block/cobblestone_1" },
-			{ "model": "block/cobblestone_2" }
+			{ "model": "block/cobblestone_2" },
+			{ "model": "block/cobblestone_3" }
 		]
     }
 }
