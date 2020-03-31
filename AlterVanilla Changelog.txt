@@ -1,9 +1,10 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 27/03/2020)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 31/03/2020)
 
 --------
 1.16.x 0.4.2
 --------
 
++ Potted Dead Bushes now have red sand as soil texture
 * Fixed missing feather part on the spectral arrows
 - Removed kinda useless Husks & Drowned variations
 
