@@ -5,6 +5,7 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 08/04/2020)
 --------
 
 + Added custom inventory model for the Soul Campfire
++ Added proper smooth blackstone slab textures & models (like carved sandstone)
 * Regular campfire is now fixed and lit in the inventory
 * Redid Nether Quartz Ore to match the new Nether Gold Ore texture
 - Removed "Overworld styled" Nether Gold Ore texture

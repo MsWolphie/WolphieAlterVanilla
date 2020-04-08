@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/polished_blackstone",
+        "side": "custommodels/polished_blackstone_slab_side"
+    }
+}
