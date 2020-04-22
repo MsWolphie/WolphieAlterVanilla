@@ -1,9 +1,10 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 19/04/2020)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 22/04/2020)
 
 --------
 1.16.x 0.4.3
 --------
 
++ Entirely reworked the leaves textures, they now don't have this ugly black background anymore when they're set to "Fast" in the options
 + Added custom inventory model for the Soul Campfire & its custom fire texture
 + Added custom regular campfire texture for its fire
 + Added proper smooth blackstone slab textures & models (like carved sandstone)
