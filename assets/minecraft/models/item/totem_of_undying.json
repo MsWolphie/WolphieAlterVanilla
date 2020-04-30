@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/totem_of_undying"
+	},
+	"display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13,-1, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    }
+}
