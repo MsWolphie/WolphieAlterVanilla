@@ -2,7 +2,7 @@
     "ambientocclusion": false,
     "textures": {
         "particle": "#torch",
-        "handle": "block/blast_furnace_top"
+        "handle": "block/anvil"
     },
     "elements": [
         {   "from": [ -1, 3.5, 7 ],

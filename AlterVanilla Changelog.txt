@@ -1,7 +1,7 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 02/05/2020)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 25/08/2020)
 
 --------
-1.16.x 0.4.3
+1.16.2+ 0.4.3
 --------
 
 + Entirely reworked the leaves textures, they now don't have this ugly black background anymore when they're set to "Fast" in the options
@@ -13,10 +13,17 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 02/05/2020)
 + Tweaked Totem of Undying position in first person view, to make it less obtrusive
 + Added custom textures/models for fences
 + Added custom items for crimson and warped doors for consistency with other door item textures
++ Slightly tweaked Netherite Helmet item texture to match the custom armor texture
++ Added CIT textures depending on rocket flight durations
+* Updated to 1.16.2 format
 * Tweaked grass path textures
 * Regular campfire is now fixed and lit in the inventory
 * Redid Nether Quartz Ore to match the new Nether Gold Ore texture
 * Changed "default" shulker box gui
+* Tweaked enchant glint effect
+* Tweaked wall torches to use anvil "black iron" texture instead of the blast furnace one
+* Updated Soul Lantern item model
+- Removed old Paper Cut-Out font, I burned out of it
 - Removed "Overworld styled" Nether Gold Ore texture
 - Removed "very damaged" custom anvil texture
 
