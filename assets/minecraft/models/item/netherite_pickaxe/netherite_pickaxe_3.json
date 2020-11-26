@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/damaged_tools/netherite_pickaxe_3"
-    }
-}

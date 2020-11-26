@@ -1,13 +1,15 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 25/08/2020)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 21/11/2020)
 
 --------
-1.16.2+ 0.4.3
+1.16.x 0.4.3
 --------
 
 + Entirely reworked the leaves textures, they now don't have this ugly black background anymore when they're set to "Fast" in the options
 + Added custom inventory model for the Soul Campfire & its custom fire texture
 + Added custom regular campfire texture for its fire
 + Added proper smooth blackstone slab textures & models (like carved sandstone)
++ Redid the "polished ugly stones" slabs & blocs, finished removed custom textures for their rough blocs
++ Changed Iron block texture to match the copper one
 + Added custom cracked nether bricks
 + Added CIT hidden texture for "Hidden Helmet" as Diamond and Netherite Helmets
 + Tweaked Totem of Undying position in first person view, to make it less obtrusive
@@ -15,7 +17,11 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 25/08/2020)
 + Added custom items for crimson and warped doors for consistency with other door item textures
 + Slightly tweaked Netherite Helmet item texture to match the custom armor texture
 + Added CIT textures depending on rocket flight durations
-* Updated to 1.16.2 format
++ Added MooBloom as a variant for red Mooshrooms, just name them "MooBloom" and enjoy!
++ Changed Iron Block texture to match the new copper one
++ Tweaked Lightning Rod to match the Copper Block texture
++ Added 1.17 freezing hearts to icons.png
+* Updated to 1.17.x format
 * Tweaked grass path textures
 * Regular campfire is now fixed and lit in the inventory
 * Redid Nether Quartz Ore to match the new Nether Gold Ore texture
@@ -23,7 +29,6 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 25/08/2020)
 * Tweaked enchant glint effect
 * Tweaked wall torches to use anvil "black iron" texture instead of the blast furnace one
 * Updated Soul Lantern item model
-- Removed old Paper Cut-Out font, I burned out of it
 - Removed "Overworld styled" Nether Gold Ore texture
 - Removed "very damaged" custom anvil texture
 
