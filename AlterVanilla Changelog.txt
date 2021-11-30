@@ -1,34 +1,47 @@
-MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 21/11/2020)
+MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 30/11/2021)
 
 --------
-1.16.x 0.4.3
+1.18.x 0.5.0
 --------
 
-+ Entirely reworked the leaves textures, they now don't have this ugly black background anymore when they're set to "Fast" in the options
++ Entirely reworked the leaves textures, they now don't have this ugly ultra black background anymore when they're set to "Fast" in the options
 + Added custom inventory model for the Soul Campfire & its custom fire texture
 + Added custom regular campfire texture for its fire
-+ Added proper smooth blackstone slab textures & models (like carved sandstone)
-+ Redid the "polished ugly stones" slabs & blocs, finished removed custom textures for their rough blocs
-+ Changed Iron block texture to match the copper one
++ Added proper smooth blackstone and polished deepslate slabs textures & models (like carved sandstone)
++ Redid the "polished ugly stones" slabs & blocks, finished removed custom textures for their rough blocs
++ Changed Iron block and the Gold block textures to match the new Copper one
 + Added custom cracked nether bricks
 + Added CIT hidden texture for "Hidden Helmet" as Diamond and Netherite Helmets
++ Added CIT textures for main enchantments on tools and weapons (fortune, silk touch, sharpness,...)
 + Tweaked Totem of Undying position in first person view, to make it less obtrusive
-+ Added custom textures/models for fences
++ Added custom textures/models for fence posts
 + Added custom items for crimson and warped doors for consistency with other door item textures
 + Slightly tweaked Netherite Helmet item texture to match the custom armor texture
 + Added CIT textures depending on rocket flight durations
-+ Added MooBloom as a variant for red Mooshrooms, just name them "MooBloom" and enjoy!
-+ Changed Iron Block texture to match the new copper one
-+ Tweaked Lightning Rod to match the Copper Block texture
 + Added 1.17 freezing hearts to icons.png
-* Updated to 1.17.x format
++ Added custom textures for the Name Tag with CIT features for named and easter egg tags; default/non-renamed tag is showed as blank
++ Added CIT variant for the Totem of Undying (Creeper & Villager Plushies)
++ Added thorns on the Wither Rose
++ Updated the ores
++ Added overlay to Waxed Copper items to distinguish them easily from regular ones (not unlike infested stones)
++ Added overlay to Infested Deepslate item
++ Added a custom "splash potion" texture for the Experience Bottle item
++ Potted nether fungus, nether roots and azaelea bushes now have corresponding "soil" textures
++ Slightly tweaked Otherside music disc texture, making it stand out a bit more, like the other Lena Raine's music disc (Pigstep)
+* Modernised the Rose texture for the poppy
+* Big rethinking of my custom textures for diorite, andesite and granite; reverted the "raw" ones to default, polished ones were redone more in vanilla-style
+* Updated slabs of stones mentionned in previous point
+* Changed menu background
 * Tweaked grass path textures
 * Regular campfire is now fixed and lit in the inventory
 * Redid Nether Quartz Ore to match the new Nether Gold Ore texture
 * Changed "default" shulker box gui
 * Tweaked enchant glint effect
-* Tweaked wall torches to use anvil "black iron" texture instead of the blast furnace one
+* Tweaked wall torches to use anvil's texture instead of the blast furnace one
 * Updated Soul Lantern item model
+* Updated font files for 1.17.x
+* Changed the Petrified Oak Slabs to match the old school oak wood texture
+* Small tweaks with hearts textures
 - Removed "Overworld styled" Nether Gold Ore texture
 - Removed "very damaged" custom anvil texture
 

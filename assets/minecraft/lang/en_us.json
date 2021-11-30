@@ -1,16 +1,10 @@
 {
   "item.minecraft.baked_potato": "French Fries",
-  "item.minecraft.diamond": "§bDiamond§r",
-  "item.minecraft.emerald": "§aEmerald§r",
   "item.minecraft.melon_slice": "Watermelon Slice",
   "item.minecraft.melon_seeds": "Watermelon Seeds",
   "item.minecraft.glistering_melon_slice": "Glistering Watermelon Slice",
 
   "block.minecraft.poppy": "Rose",
-  "block.minecraft.diamond_block": "§bBlock of Diamond§r",
-  "block.minecraft.diamond_ore": "§bDiamond Ore§r",
-  "block.minecraft.emerald_block": "§aBlock of Emerald§r",
-  "block.minecraft.emerald_ore": "§aEmerald Ore§r",
   "block.minecraft.melon": "Watermelon",
 
   "options.off": "§cOFF§r",

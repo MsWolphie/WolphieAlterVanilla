@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "custommodels/mossy_cobblestone_1",
-        "top": "custommodels/mossy_cobblestone_1",
-        "side": "custommodels/mossy_cobblestone_1"
-    }
-}
