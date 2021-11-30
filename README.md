@@ -1,4 +1,4 @@
-Ms. Wolphie's AlterVanilla 1.16.x
+Ms. Wolphie's AlterVanilla 1.18.x
 
 ----------------------
 

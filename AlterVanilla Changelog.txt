@@ -8,7 +8,6 @@ MS. WOLPHIE'S ALTERVANILLA (16x) - CHANGELOG (Last update: 30/11/2021)
 + Added custom inventory model for the Soul Campfire & its custom fire texture
 + Added custom regular campfire texture for its fire
 + Added proper smooth blackstone and polished deepslate slabs textures & models (like carved sandstone)
-+ Redid the "polished ugly stones" slabs & blocks, finished removed custom textures for their rough blocs
 + Changed Iron block and the Gold block textures to match the new Copper one
 + Added custom cracked nether bricks
 + Added CIT hidden texture for "Hidden Helmet" as Diamond and Netherite Helmets
